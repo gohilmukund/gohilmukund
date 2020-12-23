@@ -4,7 +4,7 @@
 
 I am a Cloud Consultant and Developer, currently, I work full time [Atos](https://www.atos.net/). <br/>
 
-##### I <3 developing in :
+##### I ❤ developing in :
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
